@@ -7,7 +7,6 @@ Sword Client for WEKO(SCfW)で用いるメタデータを簡単に作成する�
 
 使い方
 ------
-
 	python prog.py param1
 * param1 ...  対象のCDFデータ
 
@@ -16,6 +15,7 @@ Sword Client for WEKO(SCfW)で用いるメタデータを簡単に作成する�
 
 1. [WEKO](http://weko.at.nii.ac.jp/)
 2. [Sword Client for WEKO v2.2.0](https://community.repo.nii.ac.jp/news/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%88/SWORD-Client-for-WEKO/SCfW-ver2.2.0.0/)
+3. [NASA/ISTP CDF] (http://cdf.gsfc.nasa.gov/)
 
   [link]: http://example.com/ "インデックス型のリンク"
   [image]: http://github.com/github.png "インデックス型の画像"
