@@ -1,8 +1,8 @@
 SCfW Metadata Creator
 ======================
 
-Sword Client for WEKO(SCfW)で用いるメタデータを簡単に作成するスクリプト
-但し、対象ファイルはCDFのみ(Common Data Format, ISTP)
+Sword Client for WEKO(SCfW)で用いるメタデータを簡単に作成するスクリプト  
+但し、対象ファイルはCDFのみ(Common Data Format, ISTP)  
 また、NASA/ISTPで配布されているskeletontableが必要
 
 使い方
